@@ -6,6 +6,8 @@ text_extensions: [ 'adoc', 'asciidoc', 'atom', 'coffee', 'css', 'erb', 'haml', '
 prune:
   auto_prune: true
 
+output_dir: docs
+
 data_sources:
   - type: filesystem
     encoding: utf-8
