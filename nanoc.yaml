@@ -11,3 +11,7 @@ output_dir: docs
 data_sources:
   - type: filesystem
     encoding: utf-8
+
+string_pattern_type: glob
+index_filenames: [ 'index.html' ]
+enable_output_diff: false
