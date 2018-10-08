@@ -27,23 +27,19 @@ a:hover {
   position: relative;
   top: 40px;
   left: 40px;
-  width: 500px;
+  width: 210mm;
 }
 
 #main h1 {
   font-size: 40px;
   font-weight: normal;
-
   line-height: 40px;
-
   letter-spacing: -1px;
 }
 
 #main p {
   margin: 20px 0;
-
   font-size: 15px;
-
   line-height: 20px;
 }
 
@@ -53,10 +49,9 @@ a:hover {
 
 #main li {
   font-size: 15px;
-
   line-height: 20px;
 }
 
 #main ul li {
-  list-style-type: square;
+  list-style-type: disc;
 }

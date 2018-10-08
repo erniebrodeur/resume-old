@@ -3,19 +3,26 @@ Title: Resume
 ---
 # Ernie Brodeur
 
-Olympia, Wa
+----
+----
 
-206 681 0289
-
+Olympia, Wa \\
+206 681 0289 \\
 ebrodeur@ujami.net
+{: .class1 .class2}
 
 ## Job History
 
+----
+
 ### Comcast
 
+1000 2nd Avenue #1000\\
+Seattle, WA 98101
+
 Custom Solutions Engineer
-Jan 2017 – Present
-Greater Seattle Area
+: Jan 2017 – Present
+: Greater Seattle Area
 
 * Developed software to allow for automated deployments, while reducing time spent by a factor of one hundred.
 * Architectured solutions to generalized problems, such as backing data up via git, and moving data between different accounts.
@@ -79,12 +86,30 @@ Job Responsibilities:
 
 ## Personal Projects
 
+----
+
+https://erniebrodeur.github.io/creatable/
+https://github.com/erniebrodeur/creatable
+https://github.com/erniebrodeur/pushover
+https://github.com/erniebrodeur/ruby-beautify
+https://github.com/Comcast/mpxRubySdk
+
 ## Skills
 
-## Technology
+----
+### Programming
 
-### Proficient
+* Accomplished in Ruby
+* Proficient in C#, Go
+* Working Understanding of
 
-### Working Understanding
+### Technology
 
-### High level Understanding
+* Docker
+* Git
+
+### Education
+
+Lake Washington Institute of Technology
+AAS Computer Security and Networking
+Attended 2008 – 2010
